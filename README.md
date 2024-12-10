@@ -15,3 +15,4 @@
 - git commit -m "add flexbox layouts"
 - git merge feature/main
 - git merge feature/css
+- git push origin main
